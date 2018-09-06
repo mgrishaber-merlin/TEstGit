@@ -13,3 +13,6 @@ git status
 git commit -m "message description" filename.txt
 
 git push -u origin master
+
+https://www.youtube.com/watch?v=J_Clau1bYco
+
