@@ -6,13 +6,16 @@ git --global user.email "@@@"
 
 git clone https://git.com/username/repositoryname
 
-git add filename.txt
+git add filename.txt		- add the file to the repository.
+git add .			- add all files in the directory
+git add -A			- add all.
 
 git status
 
-git commit -m "message description" filename.txt
+git commit -m "message description" filename.txt	- commit the changes to the local repository folder.
 
-git push -u origin master
+git push -u origin master	- push the committed changes to the master branch
 
-https://www.youtube.com/watch?v=J_Clau1bYco
+Tutorial video https://www.youtube.com/watch?v=J_Clau1bYco
 
+git pull			- pulls new files into your local folder from the repository
