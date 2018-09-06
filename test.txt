@@ -12,3 +12,4 @@ git status
 
 git commit -m "message description" filename.txt
 
+git push -u origin master
