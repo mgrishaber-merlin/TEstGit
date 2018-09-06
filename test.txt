@@ -1,0 +1,14 @@
+This is my first test file for git.
+
+git --global user.name "mg"
+
+git --global user.email "@@@"
+
+git clone https://git.com/username/repositoryname
+
+git add filename.txt
+
+git status
+
+git commit -m "message description" filename.txt
+
